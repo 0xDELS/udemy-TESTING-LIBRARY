@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db412999-ad4b-4c60-8b63-3ffc9bf38883" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/OrderSummary.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/SummaryForm.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/test/SummaryForm.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/mocks/handlers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/mocks/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/Options.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/ScoopOption.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/Options.test.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sundae-starter/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +57,7 @@
       <updated>1720621365302</updated>
       <workItem from="1720621366350" duration="3295000" />
       <workItem from="1720687903110" duration="6000" />
-      <workItem from="1721050043015" duration="2363000" />
+      <workItem from="1721050043015" duration="7020000" />
     </task>
     <servers />
   </component>

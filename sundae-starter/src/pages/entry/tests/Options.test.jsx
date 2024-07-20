@@ -1,5 +1,6 @@
-import { render, screen } from "@testing-library/react";
+import { screen } from "@testing-library/react";
 import Options from "../Options.jsx";
+import { render } from "../../../utils/test-util.jsx";
 
 test("displays image for each scoop from server", async () => {
   render(<Options optionType={"scoops"} />);

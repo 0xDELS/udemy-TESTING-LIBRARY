@@ -5,24 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db412999-ad4b-4c60-8b63-3ffc9bf38883" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/common/AlertBanner.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/OrderEntry.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/OrderEntry.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/constants/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/contexts/OrderDetails.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/totalUpdates.test.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/utils/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sundae-starter/src/utils/test-util.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/main.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/main.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/mocks/handlers.js" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/mocks/handlers.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/mocks/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/mocks/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sundae-starter/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/App.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/Options.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/Options.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/OrderEntry.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/OrderEntry.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/ScoopOption.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/ScoopOption.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/ToopingOption.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/ToopingOption.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/Options.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/Options.test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/summary/OrderSummary.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/OrderSummary.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/summary/SummaryForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/SummaryForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/summary/test/SummaryForm.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/summary/test/SummaryForm.test.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sundae-starter/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/OrderEntry.test.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/sundae-starter/src/pages/entry/tests/OrderEntry.test.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +69,7 @@
       <workItem from="1720621366350" duration="3295000" />
       <workItem from="1720687903110" duration="6000" />
       <workItem from="1721050043015" duration="7020000" />
-      <workItem from="1721465924885" duration="4174000" />
+      <workItem from="1721465924885" duration="9928000" />
     </task>
     <servers />
   </component>
